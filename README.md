@@ -1,6 +1,7 @@
-# Welcome to your Expo app 👋
+# Welcome to SmartRide 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an expo mobile application built for my final year projects. The main purpose is to reduce the amount of CO2 in the environmnet and also help reduce transportation cost by introducing the carpooling feature
+This [Expo](https://expo.dev) project was created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
